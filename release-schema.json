@@ -1,0 +1,18 @@
+{
+  "definitions": {
+    "Address": {
+      "properties": {
+        "countryCode": {
+          "title": "Country code",
+          "description": "The code of the country. An ISO 3166-1 alpha-2 code is recommended, but other codes are allowed.",
+          "type": [
+            "string",
+            "null"
+          ],
+          "codelist": "countryCode.csv",
+          "openCodelist": true
+        }
+      }
+    }
+  }
+}
