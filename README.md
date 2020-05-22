@@ -1,6 +1,6 @@
 # Country code
 
-Adds a country code field in Address.
+Adds a country code field to the address object.
 
 ## Legal context
 
@@ -33,4 +33,4 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ## Changelog
 
-This extension was originally discussed as part of the [OCDS for EU profile](https://github.com/open-contracting-extensions/european-union/issues), in [pull requests](https://github.com/open-contracting-extensions/ocds_countryCode/pulls?q=is%3Apr+is%3Aclosed) and in https://github.com/open-contracting/standard/issues/524.
+This extension was originally discussed as part of the [OCDS for EU profile](https://github.com/open-contracting-extensions/european-union/issues), in [pull requests](https://github.com/open-contracting-extensions/ocds_countryCode/pulls?q=is%3Apr+is%3Aclosed) and in <https://github.com/open-contracting/standard/issues/524>.
