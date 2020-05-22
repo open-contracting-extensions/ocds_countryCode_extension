@@ -31,6 +31,10 @@ In the European Union, this extension's fields correspond to [eForms BT-514 (Org
 
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
 
+If you need to use a [user-assigned code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#User-assigned_code_elements), [create an issue](https://github.com/open-contracting/standard/issues) to discuss its addition to the codelist.
+
 ## Changelog
 
 This extension was originally discussed as part of the [OCDS for EU profile](https://github.com/open-contracting-extensions/european-union/issues), in [pull requests](https://github.com/open-contracting-extensions/ocds_countryCode/pulls?q=is%3Apr+is%3Aclosed) and in https://github.com/open-contracting/standard/issues/524.
+
+The list of country codes comes from [this project](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes) by @luke ([all/all.csv](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv)).
