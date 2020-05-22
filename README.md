@@ -1,8 +1,6 @@
 # Country code
 
-Adds a countryCode property in Address.
-
-## Guidance
+Adds a country code field in Address.
 
 ## Legal context
 
@@ -16,14 +14,6 @@ In the European Union, this extension's fields correspond to [eForms BT-514 (Org
     {
       "id": "GB-LAC-E09000003",
       "name": "London Borough of Barnet",
-      "roles": [
-        "buyer"
-      ],
-      "identifier": {
-        "scheme": "GB-LAC",
-        "id": "E09000003",
-        "legalName": "London Borough of Barnet"
-      },
       "address": {
         "streetAddress": "4, North London Business Park, Oakleigh Rd S",
         "locality": "London",
@@ -43,4 +33,4 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ## Changelog
 
-This extension was originally discussed as part of the [OCDS for EU profile](https://github.com/open-contracting-extensions/european-union/issues), [this issue](https://github.com/open-contracting/standard/issues/524) and in [pull requests](https://github.com/open-contracting-extensions/ocds_contractTerms_extension/pulls?q=is%3Apr+is%3Aclosed).
+This extension was originally discussed as part of the [OCDS for EU profile](https://github.com/open-contracting-extensions/european-union/issues), in [pull requests](https://github.com/open-contracting-extensions/ocds_countryCode/pulls?q=is%3Apr+is%3Aclosed) and in https://github.com/open-contracting/standard/issues/524.
