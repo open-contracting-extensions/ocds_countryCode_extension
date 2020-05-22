@@ -3,7 +3,7 @@
     "en": "Country code"
   },
   "description": {
-    "en": "Adds a country code field in Address."
+    "en": "Adds a country code field to the address object."
   },
   "documentationUrl": {
     "en": "https://github.com/open-contracting-extensions/ocds_countryCode_extension"
