@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "Country code"
+  },
+  "description": {
+    "en": "Adds a country code field to the address object."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/open-contracting-extensions/ocds_countryCode_extension"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ],
+  "codelists": [
+    "country.csv"
+  ],
+  "contactPoint": {
+    "name": "Open Contracting Partnership",
+    "email": "data@open-contracting.org"
+  }
+}
