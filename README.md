@@ -36,5 +36,3 @@ If you need to use a [user-assigned code](https://en.wikipedia.org/wiki/ISO_3166
 ## Changelog
 
 This extension was originally discussed as part of the [OCDS for EU profile](https://github.com/open-contracting-extensions/european-union/issues), in [pull requests](https://github.com/open-contracting-extensions/ocds_countryCode/pulls?q=is%3Apr+is%3Aclosed) and in <https://github.com/open-contracting/standard/issues/524>.
-
-The list of country codes comes from [this project](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes) by Luke Duncalfe ([all/all.csv](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv)).
