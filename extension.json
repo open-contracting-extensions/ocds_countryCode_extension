@@ -1,9 +1,9 @@
 {
   "name": {
-    "en": "Contract terms"
+    "en": "Country code"
   },
   "description": {
-    "en": "Adds a countryCode property in Address."
+    "en": "Adds a country code field in Address."
   },
   "documentationUrl": {
     "en": "https://github.com/open-contracting-extensions/ocds_countryCode_extension"
@@ -15,7 +15,7 @@
     "release-schema.json"
   ],
   "codelists": [
-    "countryCode.csv"
+    "country.csv"
   ],
   "contactPoint": {
     "name": "Open Contracting Partnership",
