@@ -9,4 +9,6 @@ To update `country.csv`:
 1. Copy its contents, excluding the for-loop, into a file
 1. Run:
 
-        ./script/update path/to/file
+    ```shell
+    ./script/update path/to/file
+    ```
