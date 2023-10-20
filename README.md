@@ -4,7 +4,7 @@ Adds a country code field to the address object.
 
 ## Legal context
 
-In the European Union, this extension's fields correspond to [eForms BT-514 (Organisation Country Code), BT-5141 (Place Country Code)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to Tenders Electronic Daily (TED), see [OCDS for the European Union](http://standard.open-contracting.org/profiles/eu/latest/en/).
+In the European Union, this extension's fields correspond to [eForms BT-514 (Organisation Country Code), BT-5141 (Place Country Code)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to Tenders Electronic Daily (TED), see [OCDS for the European Union](https://standard.open-contracting.org/profiles/eu/latest/en/).
 
 ## Example
 
